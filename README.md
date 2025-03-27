@@ -25,17 +25,18 @@ This project includes:
 
 ## Highlights
 
-- The original printer electronics are not used.
+- The original printer electronics and firmware are not used in this project.
+- The Brother P-Touch H108 printer serves as a base for modification and as a source of mechanical components, such as the print head and mechanics.
 - Simple interface for printing images and files.
 - Supports printing with a preview.
 
 ![Project Screenshot](images/Screenshot_1.png)
 
+![Project Screenshot](images/Screenshot_5.png)
+
 ![Project Screenshot](images/Screenshot_3.png)
 
 ![Project Screenshot](images/Screenshot_4.png)
-
-![Project Screenshot](images/Screenshot_5.png)
 
 ![Project Screenshot](images/Screenshot_2.png)
 
